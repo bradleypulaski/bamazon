@@ -15,7 +15,7 @@ bamazonSupervisor.js allows users to get a list of department sales, overhead, a
 
 
 ![Screen1](/screens/screen1.png)
-![Not In Stock](/screens/not in stock.png)
+![Not In Stock](/screens/not%20in%20stock.png)
 ![Successful Buy](/screens/successful buy.png)
 ![Screen2](/screens/screen2.png)
 ![View Products](/screens/view products.png)
