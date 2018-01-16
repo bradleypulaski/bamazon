@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "_Utilize inquirer and mysql to have a mock CLI storefront_ ### Technologies used: * Aggregate MYSQL functions * MYSQL aliases * MYSQL Joins * CRUD * Inquirer validation",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleypulaski/bamazon.git"
+  },
+  "author": "Bradley Pulaski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleypulaski/bamazon/issues"
+  },
+  "homepage": "https://github.com/bradleypulaski/bamazon#readme"
+}
